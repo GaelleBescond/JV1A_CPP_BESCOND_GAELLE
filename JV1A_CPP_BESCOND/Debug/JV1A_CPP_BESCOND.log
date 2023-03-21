@@ -1,0 +1,10 @@
+﻿  JV1A_CPP_BESCOND.cpp
+D:\JV1A\Bescond Gaelle\Controle prog cpp\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND.cpp(14,43): error C2440: 'initialisation' : impossible de convertir de 'initializer list' en 'std::list<int,std::allocator<int>>'
+D:\JV1A\Bescond Gaelle\Controle prog cpp\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND.cpp(14,43): message : Aucun constructeur n'a pu prendre le type de source, ou la résolution de la surcharge du constructeur était ambiguë
+D:\JV1A\Bescond Gaelle\Controle prog cpp\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND.cpp(26,18): error C3861: 'deplacement' : identificateur introuvable
+  Lieu.cpp
+D:\JV1A\Bescond Gaelle\Controle prog cpp\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND\Lieu.cpp(15,29): error C2511: 'Lieu::Lieu(std::string)' : impossible de trouver la fonction membre surchargée dans 'Lieu'
+D:\JV1A\Bescond Gaelle\Controle prog cpp\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND\Lieu.h(10): message : voir la déclaration de 'Lieu'
+D:\JV1A\Bescond Gaelle\Controle prog cpp\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND\Lieu.cpp(15,53): error C2612: 'identificateur' de fin non conforme dans une liste d'initialiseurs de base/membre
+D:\JV1A\Bescond Gaelle\Controle prog cpp\JV1A_CPP_BESCOND\JV1A_CPP_BESCOND\Lieu.cpp(29,1): fatal error C1004: fin de fichier inattendue rencontrée
+  Génération de code en cours...
